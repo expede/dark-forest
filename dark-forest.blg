@@ -1,9 +1,0 @@
-[0] Config.pm:311> INFO - This is Biber 2.16
-[0] Config.pm:314> INFO - Logfile is 'dark-forest.blg'
-[53] biber-darwin:340> INFO - === Fri Aug 12, 2022, 14:37:49
-[65] Biber.pm:415> INFO - Reading 'dark-forest.bcf'
-[131] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
-[136] Utils.pm:395> WARN - The file 'dark-forest.bcf' does not contain any citations!
-[142] bbl.pm:654> INFO - Writing 'dark-forest.bbl' with encoding 'UTF-8'
-[142] bbl.pm:757> INFO - Output to dark-forest.bbl
-[143] Biber.pm:128> INFO - WARNINGS: 1
